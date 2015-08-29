@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bean;
+package com.test;
 
 /**
  *
- * @author SON
+ * @author anhdh_a05370
  */
-public class myclass {
+public class TestClass {
     
 }
